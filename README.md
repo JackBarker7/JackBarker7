@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JackBarker7
-- 👀 I’m interested in physics simulations in Python and JavaScript
-- 🌱 I’m currently learning Python and JavaScript
+- 👀 I’m interested in physics simulations
+- 🌱 I’m currently learning Python, JavaScript and Matlab
 - 📫 How to reach me: jw.barker@outlook.com
 
 <!---
